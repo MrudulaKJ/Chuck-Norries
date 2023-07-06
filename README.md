@@ -1,2 +1,0 @@
-# Chuck-Norries
-Assignment
